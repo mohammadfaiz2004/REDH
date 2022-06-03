@@ -7,16 +7,16 @@ import asyncio
 
 
 # DAXTA
-api_id = 1724716
-api_hash = "00b2d8f59c12c1b9a4bc63b70b461b2f"
-bot_token = "5306342972:AAEwMs0RM1tDGixCVKql7AFWIiArfqs0z6w"
+api_id = 16703500
+api_hash = "63577353f3d8e13acb166acc91949719"
+bot_token = "5346675545:AAEaMmH8iR1Jzhbk3u80YYCXw6aIf_o1v4c"
 
 # CLIENT
 app = Client("BotPyrogram", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 
 
 # OWNER
-owner = 5048738026 # owner id or username ( id : as an intger, username : as a string ) ex : id > owner = 5048738026 ----- username > owner = "takeTimw"
+owner = 635335686 # owner id or username ( id : as an intger, username : as a string ) ex : id > owner = 5048738026 ----- username > owner = "takeTimw"
 
 # HELP VARS
 AddChannel = False
